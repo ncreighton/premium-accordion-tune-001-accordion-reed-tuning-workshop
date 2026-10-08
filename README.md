@@ -1,0 +1,2 @@
+# premium-accordion-tune-001-accordion-reed-tuning-workshop
+Stop losing track of which reeds you've shaved, waxed, or voiced mid-session — reclaim your tuning workflow with a log that treats every reed like a patient chart.  This Notion template transforms scattered notes and sticky‑taped reed tables into a single, searchable workshop log. It captures every adjustment you make to each reed, from initial pit
